@@ -7,4 +7,3 @@
 
 * Hourly Predictions for the next day, based on the historical input of 7 days prior
 ![Alt text](images/hourly_results.PNG)
-# Customer-Retention
